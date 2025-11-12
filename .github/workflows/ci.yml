@@ -14,7 +14,7 @@ jobs:
       postgres:
         image: postgres:16
         env:
-          POSTGRES_DB: pbo_db_todos
+          POSTGRES_DB: db_pbo_app
           POSTGRES_USER: postgres
           POSTGRES_PASSWORD: postgres
         ports:
