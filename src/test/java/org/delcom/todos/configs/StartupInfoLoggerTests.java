@@ -1,5 +1,6 @@
-package org.delcom.app.configs;
+package org.delcom.todos.configs;
 
+import org.delcom.todos.configs.StartupInfoLogger;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.context.event.ApplicationReadyEvent;

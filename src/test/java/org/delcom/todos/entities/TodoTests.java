@@ -2,6 +2,7 @@ package org.delcom.todos.entities;
 
 import java.util.UUID;
 
+import org.delcom.todos.entities.Todo;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 

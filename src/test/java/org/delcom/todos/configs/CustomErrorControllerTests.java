@@ -1,5 +1,6 @@
-package org.delcom.app.configs;
+package org.delcom.todos.configs;
 
+import org.delcom.todos.configs.CustomErrorController;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import org.mockito.Mockito;
